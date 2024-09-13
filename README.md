@@ -15,6 +15,7 @@ Additionally, I enjoy creating engaging software designs and exploring UX princi
 - Frameworks: React, Django, Angular
 - Databases: MySQL, MongoDB, Oracle
 - Tools: VScode, UNIX, Vim, IntelliJ
+- Operating Systems: MacOS, Windows, Linux
 
 ## Languages
 - I am proficient in both English and Romanian.
