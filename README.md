@@ -10,4 +10,8 @@ I am currently completing my course in Computer Forensics & Security at SETU Wat
 
 Additionally, I enjoy creating engaging software designs and exploring UX principles to better understand user behavior and enhance digital experiences. 
 
-
+## 🔧 Technologies & Tools
+- Programming Languages: Python, HTML/CSS/Javascript, Java, C, PhP, SQL
+- Frameworks: React, Django, Angular
+- Databases: MySQL, MongoDB, Oracle
+- Tools: VScode, UNIX, Vim, IntelliJ
