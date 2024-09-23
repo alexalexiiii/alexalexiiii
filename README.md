@@ -19,3 +19,4 @@ Additionally, I enjoy creating engaging software designs and exploring UX princi
 
 ## Languages
 - I am proficient in both English and Romanian.
+<img src="https://64.media.tumblr.com/a9008554c7b34c07b2188f7b2163c851/0a314c1722fc4072-36/s100x200/b779f6842cc9483c7d95a9b4140461b00dccdd29.pnj" alt="drawing" align="right" height="200" width="200">
