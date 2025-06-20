@@ -4,7 +4,7 @@
 
 ## Howdy, I'm Alexandra 🌼
 (she/her)
-I am currently completing my course in Computer Forensics & Security at SETU Waterford. While my primary passion lies in cybersecurity, I’m also deeply interested in law and legal principles, particularly in how they intersect with technology.
+I am currently completing my course in Computer Forensics & Security at SETU Waterford. While my primary passion lies in cybersecurity, I’m also deeply interested in law and legal principles, particularly in how they intersect with technology. I enjoy studying the defensive side of cybersecurity also! Particularly in relation to credential harvesting and defense evasion ! 
 <img src="https://cdn.discordapp.com/attachments/1234641567730499584/1284055277334822932/Untitled_Artwork_11.gif?ex=6724852a&is=672333aa&hm=6795d4daf7d29d6c0d00f0b719c0013c48dcbc0c9597a37d52ab65b5cfe9d593&" alt="drawing" align="right" height="200" width="200"/>
 
 Additionally, I enjoy creating engaging software designs and exploring UX principles to better understand user behavior and enhance digital experiences. 
