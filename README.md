@@ -1,5 +1,5 @@
 
-![header](https://cdn.discordapp.com/attachments/656269411879092247/1385721349691015289/Untitled_Artwork_7.PNG?ex=68571913&is=6855c793&hm=e9c235a303382776c0241a1c406c539f0829c1968e818a092490ef22a71cc316&)
+![header](https://imgur.com/a/4YABFLf)
 
 
 ## Howdy, I'm Alexandra 🌼
