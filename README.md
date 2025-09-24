@@ -12,11 +12,10 @@ Here's my portfolio website! I have my substack linked with my first article pub
 https://acybersworld.neocities.org
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, HTML/CSS/Javascript, Java, C, PhP, SQL
-- Frameworks: React, Django, Angular
-- Databases: MySQL, MongoDB, Oracle
-- Tools: VScode, UNIX, Vim, IntelliJ
-- Operating Systems: MacOS, Windows, Linux
+- Programming Languages: Assembly, Python, HTML/CSS/Javascript, Java, C, PhP, SQL, GoLang, TypeScript
+- Databases: MySQL, MongoDB
+- Tools: VScode, IntelliJ
+- Operating Systems: Kali Linux, Windows, REMnux 
 
 ## Languages
 - I am proficient in both English and Romanian.
