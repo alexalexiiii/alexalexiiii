@@ -15,8 +15,3 @@ https://acybersworld.neocities.org
 - Databases: MySQL, MongoDB
 - Tools: VScode, IntelliJ
 - Operating Systems: Kali Linux, Windows, REMnux 
-
-## Languages
-- I am proficient in both English and Romanian.
-
-<img src="https://cdn.discordapp.com/attachments/656269411879092247/1385721648195440730/Untitled_Artwork_6.PNG?ex=6857195a&is=6855c7da&hm=4c05c1beaaf336dc16cde8afbadfdc46d1c477a89d5a6dbff1401fd5f376af64&" alt="drawing" align="left" height="200" width="200"/>
