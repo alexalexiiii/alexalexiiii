@@ -30,4 +30,4 @@ https://acybersworld.neocities.org
 
 
 [![Lexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalexiiii)](https://github.com/alexalexiiii/github-readme-stats)
-![Visitor Count](https : //profile-counter.glitch.me/alexalexiiii/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/alexalexiiii/count.svg)
