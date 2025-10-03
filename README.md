@@ -18,5 +18,7 @@ https://acybersworld.neocities.org
 ## 🔧 Technologies & Tools
 - Programming Languages: Assembly, Python, HTML/CSS/Javascript, Java, C, PhP, SQL, GoLang, TypeScript
 - Databases: MySQL, MongoDB
-- Tools: VScode, IntelliJ
-- Operating Systems: Kali Linux, Windows, REMnux 
+- Tools: VScode, IntelliJ, FLARE
+- Operating Systems: Kali Linux, Windows, REMnux
+
+- [![Lexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalexiiii)](https://github.com/alexalexiiii/github-readme-stats)
