@@ -8,12 +8,11 @@ I am currently completing my course in Computer Forensics & Security at SETU Wat
 
 
 
-
-<img src="https://i.imgur.com/4qeqgEh.jpeg" alt="drawing" align="right" height="150" width="150"/>
-
+<img src="https://i.imgur.com/4qeqgEh.jpeg" alt="drawing" align="left" height="150" width="150"/>
 
 
-<a href=![Jokes Card](https://readme-jokes.vercel.app/api) align="right"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Here's my portfolio website! I have my substack linked with my first article published on sandbox evasion :)
 https://acybersworld.neocities.org
