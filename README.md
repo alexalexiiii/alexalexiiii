@@ -21,4 +21,5 @@ https://acybersworld.neocities.org
 - Tools: VScode, IntelliJ, FLARE
 - Operating Systems: Kali Linux, Windows, REMnux
 
-- [![Lexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalexiiii)](https://github.com/alexalexiiii/github-readme-stats)
+
+[![Lexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexalexiiii)](https://github.com/alexalexiiii/github-readme-stats)
