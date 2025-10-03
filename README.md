@@ -13,7 +13,7 @@ I am currently completing my course in Computer Forensics & Security at SETU Wat
 
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<a href=![Jokes Card](https://readme-jokes.vercel.app/api) align="right"/>
 
 Here's my portfolio website! I have my substack linked with my first article published on sandbox evasion :)
 https://acybersworld.neocities.org
