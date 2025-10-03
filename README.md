@@ -5,6 +5,10 @@
 ## Howdy, I'm Alexandra 🌼
 (she/her)
 I am currently completing my course in Computer Forensics & Security at SETU Waterford. While my primary passion lies in cybersecurity, I’m also deeply interested in law and legal principles, particularly in how they intersect with technology. I enjoy studying the defensive side of cybersecurity!  Currently , Im extremely interested in malware analysis and how specifically advanced malware detects that its in a sandbox environment. I'm currently researching ways to prevent that detection! 
+
+
+
+
 <img src="https://i.imgur.com/4qeqgEh.jpeg" alt="drawing" align="right" height="150" width="150"/>
 
 
