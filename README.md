@@ -21,7 +21,7 @@ https://acybersworld.neocities.org
 
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Assembly, Python, HTML/CSS/Javascript, Java, C, PhP, SQL, GoLang, TypeScript
+- Programming Languages: Python, HTML/CSS/Javascript, Java, C, PhP, SQL, TypeScript, Kotlin
 - Databases: MySQL, MongoDB
 - Tools: VScode, IntelliJ, FLARE
 - Operating Systems: Kali Linux, Windows, REMnux
