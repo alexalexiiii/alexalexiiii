@@ -1,5 +1,5 @@
 
-![header](https://imgur.com/a/github-Mtru0tc.gif)
+![header](https://i.imgur.com/llvRhFn.gif)
 
 
 ## Howdy, I'm Alexandra 🌼
