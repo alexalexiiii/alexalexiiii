@@ -6,9 +6,9 @@ I am currently completing my course in Computer Forensics & Security at SETU Wat
 
 ---
 
-![Animated GIF](assets/llvRhFn.gif)
+![Animated GIF](assets/IMG_4536.gif)
 
-![Jokes Card](assets/jokes-card.png)
+
 
 Here's my portfolio website! I have my Substack linked with my first article published on sandbox evasion:  
 [https://acybersworld.neocities.org](https://acybersworld.neocities.org)
