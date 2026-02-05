@@ -6,7 +6,7 @@ I am currently completing my course in Computer Forensics & Security at SETU Wat
 
 ---
 
-![Animated GIF](assets/IMG_4536.gif)
+![Animated GIF](assets/IMG_4536.GIF)
 
 
 
