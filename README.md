@@ -1,5 +1,5 @@
 
-![header](https://i.imgur.com/llvRhFn.gif)
+<img src="https://i.imgur.com/llvRhFn.gif" />
 
 
 ## Howdy, I'm Alexandra 🌼
