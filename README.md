@@ -1,3 +1,4 @@
+![GIF](https://i.imgur.com/sMDDY0b.gif)
 # Howdy, I'm Alexandra 🌼
 
 (she/her)
@@ -5,9 +6,6 @@
 I am currently completing my course in Computer Forensics & Security at SETU Waterford. While my primary passion lies in cybersecurity, I’m also deeply interested in law and legal principles, particularly in how they intersect with technology. I enjoy studying the defensive side of cybersecurity! Currently, I'm extremely interested in malware analysis and how advanced malware detects that it's in a sandbox environment. I'm currently researching ways to prevent that detection! 
 
 ---
-
-![GIF](https://i.imgur.com/sMDDY0b.gif)
-
 
 Here's my portfolio website! I have my Substack linked with my first article published on sandbox evasion:  
 [https://acybersworld.neocities.org](https://acybersworld.neocities.org)
